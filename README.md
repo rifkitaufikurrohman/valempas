@@ -1,4 +1,4 @@
-# validateutils
+# valempas
 
 Library sederhana untuk validasi format email dan password (minimal 8 karakter, kombinasi huruf besar, kecil, angka, dan simbol).
 
